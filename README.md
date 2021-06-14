@@ -10,7 +10,7 @@ The purpose of this analysis is to provide the school board with an evaluation o
 <img width="935" alt="Screen Shot 2021-06-13 at 11 43 08 PM" src="https://user-images.githubusercontent.com/81998045/121836276-1d66a800-cca1-11eb-85d4-9c18e96a7539.png">
  
 - How is the school summary affected?
-    - After removing Thomas High School's 9th grade math and reading scores, we see that theirs only a slight change in the average scores and % scores 
+    - After removing Thomas High School's 9th grade math and reading scores, we see that theirs only a slight change in the average scores and % passing scores 
 
 <img width="996" alt="Screen Shot 2021-06-14 at 12 05 15 AM" src="https://user-images.githubusercontent.com/81998045/121837675-33c23300-cca4-11eb-8b8c-ce8fdae54e91.png">
 <img width="1051" alt="Screen Shot 2021-06-14 at 12 47 03 AM" src="https://user-images.githubusercontent.com/81998045/121840362-0aa4a100-ccaa-11eb-9c36-ef481fdc7c6c.png">
@@ -48,7 +48,8 @@ The purpose of this analysis is to provide the school board with an evaluation o
       - Scores by school type are not affected by replacing the 9th grade scores, there are no changes to the scores by school type.
         - <img width="767" alt="Screen Shot 2021-06-14 at 1 24 08 AM" src="https://user-images.githubusercontent.com/81998045/121842883-38d8af80-ccaf-11eb-991c-3b42e138d6d8.png">
 
-
-
+## Summary
+  - Four changes in the school district analysis due to the removal of Thomas High School 9th grade scores:
+    - The most change we saw in the analysis due to the removal of THS 9th grade data was the total # of student and as a result there were slight decreases in the average math score, % of passing math, % of passing reading, & % of overall passing. 
 
  
