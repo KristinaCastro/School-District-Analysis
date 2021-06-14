@@ -36,6 +36,19 @@ The purpose of this analysis is to provide the school board with an evaluation o
            </tr>
          </table>
 
+  - Scores by school spending 
+      - The scores by school spending metrics are not affected by the replacement of ninth-grade scores. The metrics are the same because the changes to score averages are a fraction of a percentage.
+        - <img width="880" alt="Screen Shot 2021-06-14 at 1 22 00 AM" src="https://user-images.githubusercontent.com/81998045/121842737-ec8d6f80-ccae-11eb-9ede-d02964cfdd2f.png">
+
+  - Scores by school size
+      - Scores by school size are not affected by replacing the 9th grade scores, there are no changes to the scores by school size.
+        - <img width="835" alt="Screen Shot 2021-06-14 at 1 23 15 AM" src="https://user-images.githubusercontent.com/81998045/121842825-19418700-ccaf-11eb-9d8b-c490cde6bdef.png">
+
+  - Scores by school type
+      - Scores by school type are not affected by replacing the 9th grade scores, there are no changes to the scores by school type.
+        - <img width="767" alt="Screen Shot 2021-06-14 at 1 24 08 AM" src="https://user-images.githubusercontent.com/81998045/121842883-38d8af80-ccaf-11eb-991c-3b42e138d6d8.png">
+
+
 
 
  
