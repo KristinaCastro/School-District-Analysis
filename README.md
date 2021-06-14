@@ -23,12 +23,18 @@ The purpose of this analysis is to provide the school board with an evaluation o
   - How does replacing the ninth-grade scores affect the following:
     
     - Math and reading scores by grade
-      - gbrbrtbwrbrw
-      - <img width="327" alt="Screen Shot 2021-06-14 at 1 05 41 AM" src="https://user-images.githubusercontent.com/81998045/121841598-a505e400-ccac-11eb-8e7f-018e6cec4b85.png">
-<img width="327" alt="Screen Shot 2021-06-14 at 1 06 04 AM" src="https://user-images.githubusercontent.com/81998045/121841624-b222d300-ccac-11eb-999c-f05441c1f525.png">
- 
-
-
+      - The only change we see is there are no math and reading grades for the Thomas High Schools 9th grade 
+      - 
+        <table>
+          <tr>
+            <td>Math Scores By Grade</td>
+             <td>Reading Scores By Grade</td>
+          </tr>
+          <tr>
+             <td><img src="https://user-images.githubusercontent.com/81998045/121841598-a505e400-ccac-11eb-8e7f-018e6cec4b85.png" width=327 ></td>
+             <td><img src="https://user-images.githubusercontent.com/81998045/121841624-b222d300-ccac-11eb-999c-f05441c1f525.png" width=327 ></td>
+           </tr>
+         </table>
 
 
 
